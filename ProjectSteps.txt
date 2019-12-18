@@ -1,0 +1,3 @@
+1- Definition of Library in which are definied the MODELS and their proprerties
+2- Creation of new Windows Form Application (new project) in which will be defined the UI
+3- Definition of UI in form with toolbox
